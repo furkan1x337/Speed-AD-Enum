@@ -264,6 +264,7 @@ Speed-AD-Enum-Check/
 
 <p align="center">
   <sub>Made with ⚡ for penetration testers</sub><br>
-  <sub>Speed AD Enum Check © 2025</sub>
+  <sub>Speed AD Enum Check © 2026</sub>
 </p>
+
 
