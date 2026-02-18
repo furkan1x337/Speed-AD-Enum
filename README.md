@@ -189,7 +189,7 @@ After launching the tool, you will be prompted for the following information int
           ⚡ Speed AD Enum Check Tool ⚡
        Internal Penetration Testing Automation
 
-  [?] Client Name            : AcmeCorp
+  [?] Customer Name          : AcmeCorp
   [?] DC IP Address          : 10.10.10.1
   [?] Target VLANs (txt)     : targets.txt
   [?] Domain User Username   : pentest.user
@@ -198,7 +198,7 @@ After launching the tool, you will be prompted for the following information int
 
 | Parameter | Description |
 |-----------|-------------|
-| **Client Name** | Used for the output directory name and report title |
+| **Customer Name** | Used for the output directory name and report title |
 | **DC IP Address** | IP address of the Domain Controller |
 | **Target VLANs** | Path to a `.txt` file containing target IPs/subnets |
 | **Username** | Domain user account username |
@@ -266,3 +266,4 @@ Speed-AD-Enum-Check/
   <sub>Made with ⚡ for penetration testers</sub><br>
   <sub>Speed AD Enum Check © 2025</sub>
 </p>
+
